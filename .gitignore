@@ -1,0 +1,7 @@
+# 忽略 build 和打包輸出
+build/
+dist/
+*.mp4
+*.exe
+*.pkg
+output_frames/
